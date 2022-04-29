@@ -4,6 +4,8 @@ In first page Adding toogle bar on top right side where you get 3 options  Home 
 In "About me" section I am describe my self.  
 Devide "About me" in 3 section skills , Education and Experence  .
 In "contact me" section provideing a form and proveing my contact info like phone number and Email id .
+Project hosted on netlyfiy.
+link is here :- https://moonlit-khapse-0f292f.netlify.app
 
 Preveiw of Website:-
 
