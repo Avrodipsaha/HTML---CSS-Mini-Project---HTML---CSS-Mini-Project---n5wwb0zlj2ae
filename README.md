@@ -1,9 +1,9 @@
 This is a portfolio page where I am trying to show caseing about my self.
-site is created Only Useing Html , Css and Javascript .
-in first page Adding toogle bar on top right side where you have 3 options  Home , About me and contact me .
+This site is created Only Useing Html , Css and Javascript .
+In first page Adding toogle bar on top right side where you get 3 options  Home , About me and contact me .
 In "About me" section I am describe my self.  
-Devide "About me" in 3 part skills , Education section and Experence section .
-In "contact me" section i am adding a form and proveing my contact info like phone number and Email id .
+Devide "About me" in 3 section skills , Education and Experence  .
+In "contact me" section provideing a form and proveing my contact info like phone number and Email id .
 
 Preveiw of Website:-
 
