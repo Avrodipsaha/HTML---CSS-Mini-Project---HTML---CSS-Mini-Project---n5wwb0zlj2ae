@@ -1,4 +1,3 @@
-/*-------Toggale Navber------*/
 const buttenCliked = document.querySelector(".butten-cliked");
 buttenCliked.addEventListener("click",() =>{
     hideSection();
