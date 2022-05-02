@@ -81,12 +81,8 @@ section{
 }
 section.active{
     display: block;
-    animation: fadeIn 0.5s ease-in-out forwards;
 }
 
-section.fade-out{
-    animation: fadeOut 0.5s ease-in-out forwards;
-}
 main{
     max-width: 1200px;
     margin: auto;
@@ -109,9 +105,6 @@ main{
 }
 .sec-padding{
     padding: 80px 0;
-}
-.flex-end{
-    justify-content: flex-end;
 }
 
 /* section title */
@@ -179,27 +172,7 @@ button{
     color: var(--white);
 }
 
-/* animation keyframe */
-
-@keyframes fadeOut {
-    0%{
-        opacity: 1;
-    }
-    100%{
-        opacity: 0;
-    }
-    
-}
-@keyframes fadeIn {
-    0%{
-        opacity: 0;
-    }
-    100%{
-        opacity: 1;
-    }
-    
-}
-
+/*---Overlay----*/
 .overlay{
     position:fixed;
     left: 0;
@@ -255,6 +228,7 @@ HOME section
     width: 100%;
     border-radius: 50%;
 }
+
 
 /* ABOUT SECTION */
 .about-img{
@@ -334,6 +308,7 @@ padding: 0 15px;
 .about-text .timeline{
 position: relative;
 }
+
 .about-text .timeline::before{
     content: "";
     position: absolute;
@@ -348,6 +323,7 @@ position: relative;
     padding: 40px 0 ;
     display: none;
 }
+
 .about-text .tab-content.active{
     display: block;
 }
@@ -357,6 +333,7 @@ position: relative;
     position: relative;
     padding: 10px 0 0 40px  ;
 }
+
 .about-text .timeline-item::before{
     content: "";
     position: absolute;
@@ -371,24 +348,27 @@ position: relative;
 .about-text .timeline-item:last-child{
     margin-bottom: 0;
 }
+
 .about-text .timeline-item .date{
     display: block;
     color: var(--main-color);
     font-weight: 400;
     margin: 0 0 10px;
 }
+
 .about-text .timeline-item h4{
     font-size: 10px;
     text-transform: capitalize;
     margin: 0 0 10px;
 }
+
 .about-text .timeline-item h4 span{
 font-weight: 400;
 }
 
 
 
-/* contact -form  */
+/*-------contact-form------  */
 .contact-form,
 .contact-info{
     width: 50%;
