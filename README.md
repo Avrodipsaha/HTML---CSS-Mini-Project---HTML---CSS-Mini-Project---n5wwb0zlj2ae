@@ -3,6 +3,7 @@ Portfolios are a great way to demonstrate the competencies you would list on a r
 
 This is a portfolio page where I am trying to show caseing about my self.
 This site is created Only Useing Html , Css and Javascript .
+
 In first page Adding 2 options  About me and contact me .
 In "About me" section I am describe my self.  
 Devide "About me" in 3 section  Skills , Education and Experence.
@@ -11,7 +12,8 @@ project is hosted on netliyfy and link is here :- https://avrodipsaha.netlify.ap
 Preveiw of Website:-
  
  
- file:///home/vision/Pictures/Screenshots/Screenshot%20from%202022-05-06%2020-59-37.png
+ ![font](https://user-images.githubusercontent.com/95330949/167165480-a73d6677-a0e7-47bd-ae7d-23c2607281d4.jpg)
+
 ![Screenshot from 2022-05-06 21-00-06](https://user-images.githubusercontent.com/95330949/167164799-50696023-aa23-490e-9c14-3de79f33ebab.png)
  
 
