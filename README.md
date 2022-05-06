@@ -9,7 +9,11 @@ Devide "About me" in 3 section  Skills , Education and Experence.
 In "contact me" section provideing a form and proveing my contact info like phone number and Email id .
 project is hosted on netliyfy and link is here :- https://avrodipsaha.netlify.app/
 Preveiw of Website:-
+ 
+ 
+ file:///home/vision/Pictures/Screenshots/Screenshot%20from%202022-05-06%2020-59-37.png
+![Screenshot from 2022-05-06 21-00-06](https://user-images.githubusercontent.com/95330949/167164799-50696023-aa23-490e-9c14-3de79f33ebab.png)
+ 
 
-![PortfolioSampleImg](https://user-images.githubusercontent.com/95330949/166060673-d3e135b3-9046-404e-8f07-a5caf424dd32.png)
 
-![portfolioSampleImg1](https://user-images.githubusercontent.com/95330949/166060711-654aaeb4-185e-423d-97d0-c04e24dca7c8.png)
+ 
