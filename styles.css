@@ -109,25 +109,15 @@ main{
 
 /* section title */
 .section-title{
+    font-size: 40px;
+    text-transform: capitalize;
     padding: 0 15px;
     width: 100%;
     text-align: center;
     margin-bottom: 40px;
 }
-.section-title{
-    font-size: 40px;
-    text-transform: capitalize;
-}
-/* Custom scrollbar */
-::-webkit-scrollbar{
-    width: 5px;
-}
-::-webkit-scrollbar-track{
-    background-color: var(--white);
-}
-::-webkit-scrollbar-thumb{
-    background-color: var(--main-color);
-}
+
+
 /*---btn----*/
 button{
     font-family: inherit;
